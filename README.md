@@ -1,18 +1,28 @@
-Hi, I'm Glory Toluwani, a passionate Full stack Web developer interested in using codes to build user-friendly applications and solving problems.
-- 🛠️ Tech Stack:
-  • Languages: HTML, CSS, JavaScript, etc.
-  • Frameworks/Libraries: React, Tailwind CSS, Node.js.
-  • Backend Technologies: MongoDB, Express, Node.js
-  • Tools: Git, Figma.
-- I’m currently learning Backend Technologies and UI/UX Design
-- 📫 You can reach me
-  • Portfolio:
-  • LinkedIn:
-  • Email: gloryomoruyi00@gmail.com
-- ⚡ Fun fact:
-  When I’m not coding, you’ll find me taking a walk, watching series or gaming,
-  I’ve traveled to 4 different countries and love exploring cultures and cuisines.
-  
+Greetings, I am Glory Toluwani 👋
+As a dedicated Full-Stack Web Developer, I am passionate about creating intuitive and user-focused applications that solve real-world problems. I take pride in writing clean, efficient, and maintainable code.
+🛠️ Tech Stack:
+• Programming Languages: Skilled in HTML, CSS and JavaScript.
+• Frameworks and Libraries: Experienced with React, Tailwind CSS, and Node.js.
+• Backend Technologies: Proficient in MongoDB, Express, and Node.js for building scalable server-side solutions.
+• Tools: Development Tools: Familiar with Git for version control.
+
+🌐 Current Focus
+• Backend Technologies: Continuously improving my expertise in MongoDB, Express, and Node.js to build robust, efficient, and scalable server-side systems.
+• Next.js: Expanding my knowledge of Next.js to develop dynamic, server-rendered web applications.
+
+📫 You can reach me
+• Portfolio: [Your Portfolio Link Here]
+• LinkedIn: [https://www.linkedin.com/in/nimie-tech/]
+• Email: gloryomoruyi00@gmail.com
+
+✨ Fun Facts
+• When I’m not coding, I enjoy:
+  • Playing video games
+  • Watching engaging series
+  • Praying
+• I have traveled to four countries and love exploring new cultures and cuisines.
+
+   
   
 
 <!---
