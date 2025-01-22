@@ -9,15 +9,13 @@ As a dedicated Full-Stack Web Developer, I am passionate about creating intuitiv
 
 • Frameworks and Libraries: Experienced with React, Tailwind CSS, and Node.js.
 
-• Backend Technologies: Proficient in MongoDB, Express, and Node.js for building scalable server-side solutions.
-
 • Tools: Development Tools: Familiar with Git for version control.
 
 🌐 Current Focus:
 
-• Backend Technologies: Continuously improving my expertise in MongoDB, Express, and Node.js to build robust, efficient, and scalable server-side systems.
+• Modern Web Development and Frontend Mastery.
 
-• Next.js: Expanding my knowledge of Next.js to develop dynamic, server-rendered web applications while actively practicing and refining my skills in frontend languages.
+• Backend Technologies: Continuously improving my expertise in MongoDB, Express, and Node.js to build robust, efficient, and scalable server-side systems.
 
 📫 You can reach me:
 
