@@ -19,7 +19,7 @@ As a dedicated Full-Stack Web Developer, I am passionate about creating intuitiv
 
 📫 You can reach me:
 
-• Portfolio: [Your Portfolio Link Here]
+• Portfolio: [https://nimietech.github.io/Portfolio/]
 
 • LinkedIn: [https://www.linkedin.com/in/nimie-tech/]
 
