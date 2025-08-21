@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Glory Omoruyi with the brand name "NimieTech"😉 
+# 👋 Hi, I’m Glory Omoruyi who owns the brand "NimieTech"😉 
 
 💻 **Full-Stack Web Developer | Remote & Freelance**  
 I design and build **scalable web apps, modern websites, and intuitive digital solutions** that help businesses grow 🚀.  
