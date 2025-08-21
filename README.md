@@ -1,44 +1,55 @@
-Hi, My name is Glory Toluwani 👋
+# 👋 Hi, I’m Glory Omoruyi with the brand name "NimieTech"😉 
 
-As a dedicated Full-Stack Web Developer, I am passionate about creating intuitive and user-focused applications that solve real-world problems. I take pride in writing clean, efficient, and maintainable code.
+💻 **Full-Stack Web Developer | Remote & Freelance**  
+I design and build **scalable web apps, modern websites, and intuitive digital solutions** that help businesses grow 🚀.  
+My focus is on writing **clean, maintainable code** and delivering **real business impact** — not just software.  
 
+---
+ 
+## 🛠️ Tech Toolbox  
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange" />
+  <img src="https://img.shields.io/badge/Code-CSS3-blue" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6" />
+  <img src="https://img.shields.io/badge/Frontend-React-blueviolet" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-black" />
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green" />
+  <img src="https://img.shields.io/badge/Backend-Express-black" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen" />
+  <img src="https://img.shields.io/badge/API-GraphQL-E10098" />
+  <img src="https://img.shields.io/badge/Tools-Git-orange" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-000000" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-lightblue" />
+</p>
 
-🛠️ Tech Stack:
+---
 
-• Programming Languages: Skilled in HTML, CSS and JavaScript.
+## 📈 Currently Working On
+- Building **AI-powered school dashboards** (Divine Scholars ongoing project).  
+- Expanding **Next.js expertise** for highly scalable apps.  
+- Designing **client-focused websites** with SEO, accessibility, and fast performance.  
+- Diving into **App Development with React Native** to create cross-platform mobile apps 📱.  
 
-• Frameworks and Libraries: Experienced with React, Tailwind CSS, and Node.js.
+---
 
-• Tools: Development Tools: Familiar with Git for version control.
+## 📫 Let’s Connect!
+🌍 Portfolio: [nimietech.github.io/Portfolio](https://nimietech.github.io/Portfolio/)  
+💼 LinkedIn: [linkedin.com/in/nimie-tech](https://www.linkedin.com/in/nimie-tech/)  
+📧 Email: gloryomoruyi00@gmail.com  
 
-🌐 Current Focus:
+---
 
-• Modern Web Development and Frontend Mastery.
+✨ **Fun Fact**:  
+When I’m not coding, you’ll find me 🎮 gaming, 🎥 watching cool series, 🙏 praying, or 🌍 browsing my next vacation spot.  
 
-• Backend Technologies: Continuously improving my expertise in MongoDB, Express, and Node.js to build robust, efficient, and scalable server-side systems.
+---
 
-📫 You can reach me:
+### 💡 Let’s Build Something Great!  
+I’m open to **remote roles, freelance projects, and collaborations**.  
+If you’re looking for someone who can **turn your ideas into modern, scalable solutions**, let’s talk! 🚀
 
-• Portfolio: [https://nimietech.github.io/Portfolio/]
-
-• LinkedIn: [https://www.linkedin.com/in/nimie-tech/]
-
-• Email: gloryomoruyi00@gmail.com
-
-✨ Fun Facts:
-
-  When I’m not coding, I enjoy:
-  
-  • Playing video games
-  
-  • Watching engaging series
-  
-  • Praying
-  
-• I have traveled to four countries and love exploring new cultures and cuisines.
-
-   
-  
 
 <!---
 nimietech/nimietech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
