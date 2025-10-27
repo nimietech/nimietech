@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Glory Omoruyi- Founder of NimieTech 
 💻 **Building Digital Solutions that Drive Business Growth | Remote & Freelance**  
-<p align="center"><img src="https://i.gifer.com/7efs.gif" width="600" alt="Coding Animation"/></p>
+
 I’m a Full-Stack Web Developer & Tech Innovator passionate about helping brands and businesses scale through modern, intelligent, and user-focused web solutions.
 At NimieTech, I blend business understanding with technical precision — transforming ideas into seamless digital experiences that don’t just look good but deliver results.
 
