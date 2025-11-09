@@ -1,32 +1,22 @@
-# 👋 Hey there, I’m Glory Omoruyi- Founder of NimieTech 
+# 👋 Hey there, I’m Glory Omoruyi
 💻 **Building Digital Solutions that Drive Business Growth | Remote & Freelance**  
 
-I’m a Full-Stack Web Developer & Tech Innovator passionate about helping brands and businesses scale through modern, intelligent, and user-focused web solutions.
-At NimieTech, I blend business understanding with technical precision — transforming ideas into seamless digital experiences that don’t just look good but deliver results.
+I’m a Front-End Web Developer and Tech Innovator passionate about helping brands and businesses scale through modern, intelligent, and user-focused web solutions. My experience in building frontend applications, combined with my knowledge of backend technologies, enables me to transform ideas into seamless digital experiences that not only look great but also deliver real results.
 
-## 💼 What I Do
-💡 Custom Web Apps – Scalable full-stack solutions built with performance and growth in mind.
-
-🎨 Business Websites – Clean, conversion-focused sites that tell your brand’s story.
-
-⚙️ Automation Tools – Streamlined workflows that save teams time and increase productivity.
-
-📊 Dashboards & Systems – Insightful data-driven dashboards for smarter decision-making.
 
 ## 🛠️ Tech Toolbox  
 <p align="center"> <img src="https://img.shields.io/badge/Code-HTML5-orange" /> <img src="https://img.shields.io/badge/Code-CSS3-blue" /> <img src="https://img.shields.io/badge/Code-JavaScript-yellow" /> <img src="https://img.shields.io/badge/Code-TypeScript-3178C6" /> <img src="https://img.shields.io/badge/Frontend-React-blueviolet" /> <img src="https://img.shields.io/badge/Frontend-Next.js-black" /> <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC" /> <img src="https://img.shields.io/badge/Backend-Node.js-green" /> <img src="https://img.shields.io/badge/Backend-Express-black" /> <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen" /> <img src="https://img.shields.io/badge/API-GraphQL-E10098" /> <img src="https://img.shields.io/badge/Tools-Git-orange" /> <img src="https://img.shields.io/badge/Deployment-Vercel-000000" /> <img src="https://img.shields.io/badge/Mobile-React%20Native-lightblue" /> </p>
 
 
-## 📈 Currently Working On 
-🔹 Expanding my Next.js expertise to deliver faster, more scalable client projects.  
+## 📈 Currently Working On  
 
-🔹 Developing React Native mobile apps for seamless cross-platform experiences. 
+🔹 Expanding into developing React Native mobile apps for seamless cross-platform experiences. 
 
-🔹Partnering with startups and SMEs to build digital products that attract and convert. 
+🔹Partnering with startups and businesses to build digital products that attract and convert. 
 
 
-## 📫 Let’s Connect!
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nimietech&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimietech&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" /> </p>
+##
+<p align="center"> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" /> </p>
 
 ## **✨ A Little About Me**:  
 
