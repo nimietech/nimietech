@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Glory Omoruyi
 💻 **Building Digital Solutions that Drive Business Growth | Remote & Freelance**  
 
-I’m a Full-Stack Web Developer and Tech Innovator passionate about helping brands and businesses scale through modern, intelligent, and user-focused web solutions. My experience in building frontend applications, combined with my knowledge of backend technologies, enables me to transform ideas into seamless digital experiences that not only look great but also deliver real results.
+I’m a Frontend Developer & Web Developer and Tech Innovator passionate about helping brands and businesses scale through modern, intelligent, and user-focused web solutions. My experience in building frontend applications, combined with my knowledge of backend technologies, enables me to transform ideas into seamless digital experiences that not only look great but also deliver real results.
 
 
 ## 🛠️ Tech Toolbox  
